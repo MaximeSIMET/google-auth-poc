@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">google-auth-poc</string>
+    <string name="title_activity_main">google-auth-poc</string>
+    <string name="package_name">com.msimet.googleauthpoc</string>
+    <string name="custom_url_scheme">com.msimet.googleauthpoc</string>
+    <string name="server_client_id">866240789838-k3ovk5bhmusja7fi17eg63olr6n51omp.apps.googleusercontent.com</string>
+</resources>
